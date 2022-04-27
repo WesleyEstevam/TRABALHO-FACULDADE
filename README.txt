@@ -1,0 +1,5 @@
+###
+
+PARA INSTALAR AS DEPENDÊNCIAS DO PROJETO: npm install
+
+###
